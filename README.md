@@ -1,4 +1,5 @@
 ### ONE_NORMAL_ONE的个人图书馆——主要收录毛时代以及社会主义中国有价值的革命文献
+压缩包为分卷压缩，将全部文件置于一个文件夹之后解压zip文件即可。
 
 <!--
 **mlmlearner/mlmlearner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
